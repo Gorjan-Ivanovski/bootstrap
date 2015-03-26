@@ -8,6 +8,7 @@ if (typeof jQuery === 'undefined') {
   throw new Error('Bootstrap\'s JavaScript requires jQuery')
 }
 
+//adding a comment and testing the Git process
 
 +function ($) {
   'use strict';
